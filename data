@@ -1,0 +1,4 @@
+data.serverclass=com.microsoft.sqlserver.jdbc.SQLServerDriver
+data.dburl=jdbc:sqlserver://ADMIN:1433;DATABASENAME=QLSV
+data.user=sa
+data.password=12345678
